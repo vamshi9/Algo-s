@@ -11,7 +11,7 @@ public class XpowY{
     }
   }
   public static boolean findValue(int num){
-    int x;
+    int x=0;
     for(x=2;x<=Math.sqrt(num);x++){
       while(num%x == 0){
         num = num/x;
