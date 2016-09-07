@@ -1,4 +1,4 @@
-improt java.util.*;
+import java.util.*;
 public class spiralTraverseOrderTree{
   public static void main(String[] args) {
      spiralTraverseOrderTree tree = new spiralTraverseOrderTree();
